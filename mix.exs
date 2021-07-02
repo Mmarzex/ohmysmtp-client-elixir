@@ -34,7 +34,7 @@ defmodule OhmysmtpClient.MixProject do
   defp package do
     [
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/Mmarzex/ohmysmtp-client"}
+      links: %{"GitHub" => "https://github.com/Mmarzex/ohmysmtp-client-elixir"}
     ]
   end
 
